@@ -137,7 +137,7 @@ body {
 
 }
 
-.button:is(:hover, :focus) {
+.button:is(:hover) {
   background-color: var(--clr-primary-500);
 }
 
