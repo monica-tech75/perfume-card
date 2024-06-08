@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/image-product-mobile.jpg)
-![](./images/image-product-desktop.jpg)
+![](./images/product_card_component.png)
+![](./images/product_card_component_mobile.png)
 
 
 
